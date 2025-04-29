@@ -1,12 +1,20 @@
-<p align="center">
-  <img src="./web developer.gif" alt="Faheem Dev Banner" width="10%" />
-</p>
-
+<table>
+  <tr>
+    <td align="left">
+      
 # Hi there, I'm **Faheem** 👋  
 ### Backend & Full-Stack Developer
 
+   </td>
+   <td align="right">
+     <img src="./web developer.gif" alt="Web Developer GIF" width="200px" />
+   </td>
+  </tr>
+</table>
+
+
 <p align="center">
-  <img src="./neon line.gif" alt="Neon Line" style="width: 100%; height: 3px; object-fit: cover;"/>
+  <img src="./neon line.gif" alt="Neon Line" style="width: 100%; max-height: 30px; object-fit: cover;" />
 </p>
     
 ## 👨‍💻 About Me
@@ -15,7 +23,7 @@ I thrive on building scalable, maintainable applications and collaborating with 
 Always exploring new tech, sharing knowledge, and turning ideas into reality.
 
 <p align="center">
-  <img src="./neon line.gif" alt="Neon Line" style="width: 100%; height: 3px; object-fit: cover />
+  <img src="./neon line.gif" alt="Neon Line" style="width: 100%; max-height: 30px; object-fit: cover;" />
 </p>
 
 ## 🔗 Connect with Me
@@ -24,7 +32,7 @@ Always exploring new tech, sharing knowledge, and turning ideas into reality.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faheem-rana-2599b4202/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faheem798)
 
 <p align="center">
-  <img src="./neon line.gif" style="width: 100%; height: 3px; object-fit: cover />
+  <img src="./neon line.gif" alt="Neon Line" style="width: 100%; max-height: 30px; object-fit: cover;" />
 </p>
 
 ## 🛠 Tech Stack
