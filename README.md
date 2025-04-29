@@ -1,33 +1,25 @@
 # Hi there, I'm **Faheem** 👋  
 ### Backend & Full-Stack Developer
-
+<p align="center">
+  <img src="./neon-line.gif" alt="Neon Line" width="600" height="1" />
+</p>
 ## 👨‍💻 About Me
 A passionate backend & full-stack web developer continually leveling up my skills.  
 I thrive on building scalable, maintainable applications and collaborating with creative teams.  
 Always exploring new tech, sharing knowledge, and turning ideas into reality.
 
----
-
-## 🔧 Core Skills
-
-| Category          | Technologies & Tools                          |
-| ----------------- | --------------------------------------------- |
-| **Languages**     | Python · JavaScript · TypeScript · SQL        |
-| **Backend**       | Django · Django REST · FastAPI · Node.js      |
-| **Frontend**      | React · Next.js · Tailwind CSS · HTML5 · CSS3 |
-| **APIs & Data**   | REST · GraphQL · PostgreSQL · MongoDB · Redis |
-| **DevOps**        | Docker · GitHub Actions · Vercel · Netlify    |
-| **Testing**       | pytest · Jest · SuperTest                     |
-| **Other Tools**   | Git · VS Code · Postman · Swagger/OpenAPI     |
-
----
+<p align="center">
+  <img src="./neon-line.gif" alt="Neon Line" width="600" height="1" />
+</p>
 
 ## 🔗 Connect with Me
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/Stelmor) 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/faheemrational111)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faheem-rana-2599b4202/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faheem798)
 
----
+<p align="center">
+  <img src="./neon-line.gif" alt="Neon Line" width="600" height="1" />
+</p>
 
 ## 🛠 Tech Stack
 
