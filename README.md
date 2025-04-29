@@ -1,15 +1,19 @@
+<p align="center">
+  <img src="./web developer.gif" alt="Faheem Dev Banner" width="100%" />
+</p>
 # Hi there, I'm **Faheem** 👋  
 ### Backend & Full-Stack Developer
 <p align="center">
   <img src="./neon line.gif" alt="Neon Line" style="width: 100%; height: 3px; object-fit: cover />
 </p>
+    
 ## 👨‍💻 About Me
 A passionate backend & full-stack web developer continually leveling up my skills.  
 I thrive on building scalable, maintainable applications and collaborating with creative teams.  
 Always exploring new tech, sharing knowledge, and turning ideas into reality.
 
 <p align="center">
-  <img src="./neon line.gif" alt="Neon Line" width="600" height="1" />
+  <img src="./neon line.gif" alt="Neon Line" style="width: 100%; height: 3px; object-fit: cover />
 </p>
 
 ## 🔗 Connect with Me
