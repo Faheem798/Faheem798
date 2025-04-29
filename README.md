@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="./web developer.gif" alt="Faheem Dev Banner" width="100%" />
+  <img src="./web developer.gif" alt="Faheem Dev Banner" width="10%" />
 </p>
 
 # Hi there, I'm **Faheem** 👋  
 ### Backend & Full-Stack Developer
 
 <p align="center">
-  <img src="./neon line.gif" alt="Neon Line" style="width: 100%; height: 3px; object-fit: cover />
+  <img src="./neon line.gif" alt="Neon Line" style="width: 100%; height: 3px; object-fit: cover;"/>
 </p>
     
 ## 👨‍💻 About Me
