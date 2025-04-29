@@ -1,7 +1,7 @@
 # Hi there, I'm **Faheem** 👋  
 ### Backend & Full-Stack Developer
 <p align="center">
-  <img src="./neon-line.gif" alt="Neon Line" width="600" height="1" />
+  <img src="./neon line.gif" alt="Neon Line" width="600" height="1" />
 </p>
 ## 👨‍💻 About Me
 A passionate backend & full-stack web developer continually leveling up my skills.  
@@ -9,7 +9,7 @@ I thrive on building scalable, maintainable applications and collaborating with 
 Always exploring new tech, sharing knowledge, and turning ideas into reality.
 
 <p align="center">
-  <img src="./neon-line.gif" alt="Neon Line" width="600" height="1" />
+  <img src="./neon line.gif" alt="Neon Line" width="600" height="1" />
 </p>
 
 ## 🔗 Connect with Me
@@ -18,7 +18,7 @@ Always exploring new tech, sharing knowledge, and turning ideas into reality.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faheem-rana-2599b4202/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faheem798)
 
 <p align="center">
-  <img src="./neon-line.gif" alt="Neon Line" width="600" height="1" />
+  <img src="./neon line.gif" alt="Neon Line" width="600" height="1" />
 </p>
 
 ## 🛠 Tech Stack
